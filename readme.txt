@@ -5,5 +5,8 @@ class  ReadMe
 		if(click){
 			sysout(give you a girl);
 		}
+		if(rock){
+			sysout(give you a girl);
+		}
 	}
 }
