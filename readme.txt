@@ -1,1 +1,9 @@
-提交内容到服务端
+class  ReadMe
+{
+	public static void main(String[] args) 
+	{
+		if(click){
+			sysout(give you a girl);
+		}
+	}
+}
